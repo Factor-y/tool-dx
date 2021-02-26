@@ -1,0 +1,6 @@
+# general build tools patterns
+target
+
+# vscode related ignore patterns
+.vscode
+.history
